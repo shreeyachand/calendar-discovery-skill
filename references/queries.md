@@ -1,4 +1,4 @@
-# Booking-link discovery — query & API catalog
+# Calendar discovery — query & API catalog
 
 Ready-made sources, queries, and parsing recipes. Pair with
 `scripts/extract_booking_links.py`.

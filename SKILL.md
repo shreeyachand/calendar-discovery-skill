@@ -1,9 +1,11 @@
 ---
-name: booking-link-discovery
+name: calendar-discovery-skill
 description: "Find people and their publicly published booking links (Calendly, Cal.com, Google Calendar appointments, SavvyCal, Topmate, etc.) for outreach. Use when the user wants to find someone to talk to, book or schedule a call, line up problem-discovery / customer-discovery / user-research interviews for a startup, find office hours, build a cold-outreach list, or asks for a person's scheduling or booking link. Trigger even if they don't say \"booking link\": e.g. \"who can I talk to about X\", \"find me people open to chatting\", \"get me user calls\", \"find founders/users I can interview\", \"mine HN/GitHub for scheduling links\", or pastes a scheduler link to investigate. Distinct from idea-finder — that generates problem ideas; this finds the humans to validate them with. Generalizable beyond startups to any 'who can I talk to about X, and how do I book them' task."
 ---
 
-# Booking Link Discovery
+# Calendar Discovery
+
+Find people open to a conversation, and the booking link they published.
 
 Find **specific people** who are open to a conversation on a topic, and the
 **public booking link** they chose to share. Built for problem-discovery / user
